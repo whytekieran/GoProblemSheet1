@@ -28,8 +28,8 @@
       <file leaf-file-name="Solutions.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProblemSheet/Solutions.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="114" column="35" selection-start-line="114" selection-start-column="35" selection-end-line="114" selection-end-column="35" />
+            <state relative-caret-position="-604">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
               </folding>
@@ -608,12 +608,12 @@
       <option name="presentableId" value="Default" />
       <updated>1473960736281</updated>
       <workItem from="1473960739116" duration="957000" />
-      <workItem from="1473961764835" duration="15863000" />
+      <workItem from="1473961764835" duration="16482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16820000" />
+    <option name="totallyTimeSpent" value="17439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -677,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSheet/Solutions.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="114" column="35" selection-start-line="114" selection-start-column="35" selection-end-line="114" selection-end-column="35" />
+        <state relative-caret-position="-604">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
           </folding>

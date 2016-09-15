@@ -67,9 +67,9 @@ func main(){
 
 	//SOLUTION TO PROBLEM 3
 	//Uncomment reverse function below func main()
-	//We use runs in the reverse function to reverse a string. A rune slice takes each character
+	//We use runes in the reverse function to reverse a string. A rune slice takes each character
 	//as an individual element so we can loop through them
-	//Runes can convert characters to their unicode value, like so:
+	//Runes can convert characters to their ascii value, like so:
 	/*var h rune = 'a'
 	fmt.Printf("%d", h)
 	fmt.Println()
@@ -93,7 +93,7 @@ func main(){
 	fmt.Print("Enter a number: ")
 	fmt.Scan(&number)
 
-	//keep looping until resolved is 0
+	//keep looping until resolved is 1
 	for resolved != 1 {
 
 		if number % 2 == 0 {
