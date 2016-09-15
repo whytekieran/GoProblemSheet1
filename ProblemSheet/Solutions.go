@@ -98,8 +98,6 @@ func main(){
 
 		if number % 2 == 0 {
 			number = number / 2
-			fmt.Println("even")
-			fmt.Println(number)
 			if number == 1 { //when number is 1 we will always get repeat of 4 2 1, 4, 2, 1 so just stop
 				resolved = 1
 			}
